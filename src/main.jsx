@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+import General from "../client-side-code/pages/SwitchPages"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <App />
+    <General/>
 )
